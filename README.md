@@ -43,8 +43,8 @@
 
 ### 🧰 Tools & IDEs
 
-- 💻 VS Code, PHPStorm, Sublime Text  
-- 🌐 Postman, XAMPP, Laravel Sail  
+- 💻 VS Code, Visual Studio 
+- 🌐 Postman, XAMPP, Laragon, SQL Server
 - 🛠️ GitHub, Git, Vercel, Netlify  
 - 📦 npm, Composer  
 
@@ -55,9 +55,3 @@
 - 📧 Email: [anharkhoirun@gmail.com](mailto:anharkhoirun@gmail.com)
 - 💼 LinkedIn: _coming soon_ 😉
 - 🌍 Portfolio Website: _coming soon... stay tuned!_
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e77ca&height=200&section=footer"/>
-</p>
