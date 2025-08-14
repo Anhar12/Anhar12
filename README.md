@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Raja Iblis 👋</h1>
+<h1 align="center">Hi there, I'm Anhar 👋</h1>
 
 <p align="center">
   <em>Informatics Student at <strong>Mulawarman University</strong> | Passionate about Web Development 💻</em>
